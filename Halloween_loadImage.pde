@@ -1,3 +1,4 @@
+pjs loadImage ("DMD.jpg");
 PImage photo;
 void setup() {
   size(1000, 383);
