@@ -1,4 +1,4 @@
-pjs loadImage ("DMD.jpg");
+
 PImage photo;
 void setup() {
   size(1000, 383);
@@ -24,3 +24,4 @@ void mouseDragged()
     fill(255);
     ellipse(mouseX,mouseY,3,3);
   }
+pjs loadImage ("DMD.jpg");
