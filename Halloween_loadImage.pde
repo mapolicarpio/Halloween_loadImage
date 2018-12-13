@@ -9,7 +9,6 @@ void setup() {
 
 void draw() {
   image(photo, 1000,383);
-  save("MATTHEWPOLICARPIO.Halloween.png");
 }
 void mouseDragged()
 {
