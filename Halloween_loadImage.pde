@@ -1,4 +1,4 @@
-/* @pjs preload="DMD.jpg"; */
+@pjs preload="DMD.jpg"; 
 PImage photo;
 void setup() {
   size(1000, 383);
@@ -23,5 +23,4 @@ void mouseDragged()
     noStroke();
     fill(255);
     ellipse(mouseX,mouseY,3,3);
-  }
-pjs loadImage ("DMD.jpg");
+}
